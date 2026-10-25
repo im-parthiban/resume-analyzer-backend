@@ -1,0 +1,64 @@
+Java|core java|java se
+Spring Boot|springboot|spring-boot
+Spring Framework|spring mvc
+Spring Security
+Spring Data JPA|jpa
+Hibernate
+REST API|rest apis|restful|restful api|restful apis
+Microservices|microservice
+JWT|json web token
+Maven
+Gradle
+JUnit
+Mockito
+MySQL
+PostgreSQL|postgres
+MongoDB|mongo
+Oracle
+SQL
+NoSQL
+Redis
+Kafka|apache kafka
+RabbitMQ
+Python
+JavaScript|js|es6
+TypeScript
+React|react.js|reactjs
+Angular
+Vue|vue.js|vuejs
+Node.js|nodejs|node
+Express|express.js
+HTML|html5
+CSS|css3
+Tailwind|tailwind css
+Bootstrap
+C++
+C#
+.NET|dotnet
+PHP
+Docker
+Kubernetes|k8s
+AWS|amazon web services
+Azure
+GCP|google cloud
+Jenkins
+CI/CD|cicd
+Git
+GitHub
+Linux
+Postman
+Swagger|openapi
+Agile
+Scrum
+Jira
+Data Structures|dsa
+Algorithms
+OOP|object oriented|object-oriented
+Multithreading|concurrency
+Machine Learning|ml
+Data Analysis
+Pandas
+NumPy
+Tableau
+Power BI
+Excel|microsoft excel
